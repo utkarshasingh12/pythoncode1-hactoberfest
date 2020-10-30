@@ -1,1 +1,21 @@
-Cout<<"HELLO WORLD";
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>itm</title>
+	<link rel="stylesheet" href="C:/Users/user/Downloads/Sublime Text Build 3211/css/style5.css">
+</head>
+<body><header>
+	<h1>Web Development:</h1>
+	<h2>INTRODUCTION</h2>
+	<P>Web development is the work involved in developing a Web site for the Internet (World Wide Web) or an intranet (a private network).[1] Web development can range from developing a simple single static page of plain text to complex Web-based Internet applications (Web apps), electronic businesses, and social network services.</P>
+	<p id=cal>Among Web professionals, "Web development" usually refers to the main non-design aspects of building Web sites: writing markup and coding.[2] Web development may use content management systems (CMS) to make content changes easier and available with basic technical skill.</p>
+	<nav>
+		<a href="">Home</a>
+		<a href="" class="current">Page2</a>
+		<a href="">Page3</a>
+		<a href="">Page4</a>
+	</nav>
+</header>
+</body>
+</html>
